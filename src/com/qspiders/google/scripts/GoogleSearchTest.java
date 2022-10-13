@@ -17,5 +17,11 @@ public class GoogleSearchTest extends BaseTest{
 	public void printmsg() {
 		System.out.println("message");
 	}
+	public void printmsg2() {
+		System.out.println("message");
+	}
+	public void printmsg3() {
+		System.out.println("message");
+	}
 
 }
