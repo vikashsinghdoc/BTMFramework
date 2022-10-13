@@ -13,5 +13,9 @@ public class GoogleSearchTest extends BaseTest{
 		
 		gsp.searchFor("Selenium");
 	}
+	
+	public void printmsg() {
+		System.out.println("message");
+	}
 
 }
